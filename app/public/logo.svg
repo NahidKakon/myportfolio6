@@ -1,0 +1,14 @@
+
+<svg height="210" width="600" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="100,10 40,198 190,78 10,78 160,198"
+  style="fill:maroon;border:orange;stroke:;stroke-width:30;fill-rule:evenodd;" />
+<animateTransform
+      attributeName="transform"
+      begin="0s"
+      dur="2s"
+      type="rotate"
+      from="0 1 1"
+      to="180 1 1"
+      repeatCount="indefinite" />
+
+      </svg>
